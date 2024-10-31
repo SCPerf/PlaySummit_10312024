@@ -1,0 +1,64 @@
+﻿---
+ID: "91404cde-dfee-4269-b6e8-bab6ce8f15b9"
+Parent: "68dc89a4-1b04-59a8-9c4e-3b49d6c61052"
+Template: "d8aa73e1-c275-4eee-bb9d-333925e51952"
+Path: /sitecore/content/PLAY/playwebsite/home/sessions/7 mindset strategies to raise your game
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: "Fjm7bEdK3k-chKp9c316cw"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Seven mindset strategies to raise your game
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025df6a5-2001-449f-8f76-02be5353905c"
+      Hint: Audience
+      Value: "{A69C357B-F4F9-4D4B-8262-44B0E60F051F}"
+    - ID: "21df785e-14dd-4c8d-abff-5ae00b693e5e"
+      Hint: Description
+      Value: |
+        <p>The "Seven Mindset Strategies to Raise Your Game" session will explore the pivotal role of mental preparedness in achieving sports and fitness goals. Led by experienced sports psychologists and elite athletes, this session will delve into the psychological aspects of sports performance and the importance of cultivating a positive and resilient mindset. Attendees will learn about various mental strategies, such as goal setting, visualization, positive self-talk, and stress management, that can help athletes enhance their performance and cope with pressures of competition.<br />
+        <br />
+        In the second part of the session, attendees will learn practical ways to apply these mindset strategies in their daily training routines and competitive scenarios. Real-life examples of how these strategies have helped professional athletes overcome hurdles and achieve success will be shared. The session will also address the challenges athletes may face when trying to change their mindset and provide advice on how to overcome these. By the end of this session, attendees will have a deeper understanding of the power of mindset in sports and be equipped with practical strategies to elevate their own game.</p>
+    - ID: "3647d085-16e3-44ee-a3f7-c613d0fe17ce"
+      Hint: Speakers
+      Value: "{4C23E8E4-BA94-4840-8888-D769F0F57835}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "4b2d1962-60eb-4cd1-b8e9-a2c2762ec04c"
+      Hint: Image
+      Value: |
+        <image stylelabs-content-id="38239" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/38239/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/e67627244df04ec3a0ed5cdb5851160c?v=3df11beb&amp;t=web" mediaid="" stylelabs-content-type="Image" alt="Inspirational" height="3840" width="5760" />
+    - ID: "51084853-806c-4e3d-90a3-0eaec3faa3ac"
+      Hint: Day
+      Value: "{A9D94EEC-ED13-45CD-A103-F8860781E38E}"
+    - ID: "5c88d198-7603-4a45-b9f6-682b908c60b9"
+      Hint: Timeslots
+      Value: "{FA4BCD86-6377-476A-B5AF-0468B5889A59}"
+    - ID: "6f888071-3e3a-4888-ae95-d90b7df06870"
+      Hint: Type
+      Value: Session
+    - ID: "8058e5a0-d20d-4923-b87d-f56b19efc20f"
+      Hint: Name
+      Value: Seven mindset strategies to raise your game
+    - ID: "8c3dff8b-74bc-4a65-af6d-81452a3d9a11"
+      Hint: Rooms
+      Value: "{A5673B41-FABE-450B-9037-14132FA734DA}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df489af0-7c10-4f32-93ee-652d901bb298"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Seven mindset strategies to raise your game

@@ -1,0 +1,44 @@
+.search-input-play {
+  @apply absolute right-0 py-2 pl-12 pr-8 transition-all bg-white-light w-full;
+
+  @media (max-width: 1024px) {
+    @apply w-full left-0 right-0 pr-4 bg-white-light;
+  }
+
+  &-hidden {
+    @apply lg:hidden;
+    @apply placeholder:lg:text-transparent;
+  }
+
+  &:not(.search-input-play-hidden) {
+    @apply w-full bg-white-light;
+    @apply lg:w-[42rem];
+  }
+}
+
+.main-navigation .navigation-content .items-container.opened {
+  @apply flex-col;
+  @apply lg:flex-row;
+}
+
+.search-input-clear {
+  @apply absolute flex gap-2 top-2 right-0 z-10 mr-4 cursor-pointer items-center;
+
+  &-text {
+    @apply text-gray-dark;
+  }
+
+  &-icon {
+    @apply text-gray;
+  }
+
+  .search-input-play-hidden + & {
+    @apply hidden;
+  }
+}
+
+.search-results-header-search {
+  .search-input-clear {
+    @apply top-[0.15rem];
+  }
+}

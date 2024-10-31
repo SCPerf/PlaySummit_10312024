@@ -1,0 +1,67 @@
+﻿---
+ID: "2ba9c4d5-7935-4e84-a0a3-df8623b1b73c"
+Parent: "68dc89a4-1b04-59a8-9c4e-3b49d6c61052"
+Template: "d8aa73e1-c275-4eee-bb9d-333925e51952"
+Path: /sitecore/content/PLAY/playwebsite/home/sessions/Ask an expert ski and snowboard gear
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: fZZXlBesN0etQLARXmSxtw
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Ask an expert: ski and snowboard gear"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025df6a5-2001-449f-8f76-02be5353905c"
+      Hint: Audience
+      Value: "{EB7D2E35-46BD-4EA3-A142-6B524DF4ED97}|{6AB3A378-547F-4B38-8BE4-7538313020B2}"
+    - ID: "21df785e-14dd-4c8d-abff-5ae00b693e5e"
+      Hint: Description
+      Value: |
+        <p>This session provides the golden chance to connect directly with industry experts in ski and snowboard gear. Whether you're an avid snow sports enthusiast or a beginner seeking advice, you'll find this discussion incredibly informative. The experts will provide comprehensive insights into the latest trends in ski and snowboard equipment, sharing their knowledge on selecting the right gear, maintaining equipment, and understanding the role of different gear in enhancing performance and safety on the slopes. Participants will have the opportunity to ask questions, ensuring they leave with a solid understanding of the best equipment to match their needs and skill level.<br />
+        <br />
+        The second part of the session is designed to help participants understand the intricacies of ski and snowboard gear technology. The experts will delve into the science behind gear design, discussing how advancements in technology have revolutionized snow sports and improved safety measures. From the importance of choosing the right boots to the evolution of ski and snowboard design, this session will equip attendees with the knowledge to make informed choices about their gear. This is a must-attend for anyone looking to elevate their snow sports experience.</p>
+    - ID: "3647d085-16e3-44ee-a3f7-c613d0fe17ce"
+      Hint: Speakers
+      Value: "{5F107763-694B-4E24-B7C7-308180ABABAD}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "4b2d1962-60eb-4cd1-b8e9-a2c2762ec04c"
+      Hint: Image
+      Value: |
+        <image stylelabs-content-id="38543" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/38543/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/a76e8a98fd844664805dead6907a2d74?v=ea307c17&amp;t=web" mediaid="" stylelabs-content-type="Image" alt="Ski expert" height="3409" width="5123" />
+    - ID: "51084853-806c-4e3d-90a3-0eaec3faa3ac"
+      Hint: Day
+      Value: "{1EB4DC2D-C299-42FF-B3C1-0719E694298E}"
+    - ID: "5c88d198-7603-4a45-b9f6-682b908c60b9"
+      Hint: Timeslots
+      Value: "{3C8054D9-EE77-47CB-8142-5541A557260D}|{81801E88-1D20-4B32-A344-772504C234EA}"
+    - ID: "6f888071-3e3a-4888-ae95-d90b7df06870"
+      Hint: Type
+      Value: Session
+    - ID: "8058e5a0-d20d-4923-b87d-f56b19efc20f"
+      Hint: Name
+      Value: "Ask an expert: ski and snowboard gear"
+    - ID: "8c3dff8b-74bc-4a65-af6d-81452a3d9a11"
+      Hint: Rooms
+      Value: "{FD2E5B87-2430-4051-ADF9-8B76481774C2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b844ca7-793b-4eef-b327-81ce673335a8"
+    - ID: "cb19a833-48b8-4ad4-a841-09769bbef5c6"
+      Hint: Sponsors
+      Value: "{8C5F5B0A-B6A6-46CE-A34A-6A76E7B4FD2E}"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: "Ask an expert: ski and snowboard gear"

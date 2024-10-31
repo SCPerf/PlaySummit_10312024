@@ -1,0 +1,15 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "RenderingHost",
+    "items": {
+        "includes": [
+            {
+                "DEMO_TEAM_CUSTOMIZATION": "Serialize all rendering hosts, in case user adds additional ones",
+                "name": "RenderingHosts",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts",
+                "scope": "descendantsOnly",
+                "END_DEMO_TEAM_CUSTOMIZATION": ""
+            }
+        ]
+    }
+}

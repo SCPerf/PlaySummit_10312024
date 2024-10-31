@@ -1,0 +1,67 @@
+﻿---
+ID: "5b28b824-5848-4113-94f2-c9fdd4cb1805"
+Parent: "1f4b781b-f2a5-5647-99df-c0c369162c4d"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: /sitecore/content/PLAY/playwebsite/home/speakers/Kate Green
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: "2TFe-9qTCUqwHT0GJQuMTw"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kate Green
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "44a57340-61f8-48a2-84a8-bc5d16929a3d"
+      Hint: Location
+      Value: Vancouver, Canada
+    - ID: "5d58f635-d21c-4635-8efd-93448b2799c2"
+      Hint: Vendors
+      Value: "{4A95D3FB-A669-47E7-8454-119476231CB7}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc66db0f-4b48-4f17-bb03-3e22d42c6a9e"
+    - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
+      Hint: Company
+      Value: Final Whistle
+    - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
+      Hint: Description
+      Value: |
+        <p>Kate Green is a trailblazer in the sports industry, with an impressive career spanning over two decades. She is currently the CEO of a major sports equipment company, and her innovative leadership has been instrumental in the company's growth and success.<br />
+        <br />
+        Kate holds a Bachelor's degree in Business Administration and a Master's in Sports Management. Her professional journey began in the marketing department of a globally recognized sports brand, where her dedication and strategic thinking quickly saw her rise through the ranks.<br />
+        <br />
+        In her current role as CEO, Kate has been instrumental in steering the company towards sustainable practices, championing eco-friendly sports equipment production. Under her leadership, the company has launched several successful product lines that have revolutionized the sports industry.<br />
+        <br />
+        Kate's influence extends beyond her corporate role. She is a recognized advocate for gender equality in sports, consistently pushing for greater representation and inclusivity. She has been honored with numerous awards for her contributions to the sports industry and her efforts in promoting diversity and equality.<br />
+        <br />
+        At the PLAY! Summit Conference, Kate will draw on her wealth of experience to discuss innovative product development, sustainable business practices in the sports industry, and the importance of equality and representation in sports. Her insights are sure to provide invaluable lessons for all attendees.</p>
+    - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
+      Hint: JobTitle
+      Value: Creative Director
+    - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
+      Hint: Role
+      Value: Sponsor
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: Kate Green
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Kate Green
+    - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
+      Hint: Picture
+      Value: |
+        <image stylelabs-content-id="50172" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/50172/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/7cf789b6b8e5494c8a946a3f38b8bafe?v=ed61a959&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Kate Green - No background" height="4272" width="4272" />

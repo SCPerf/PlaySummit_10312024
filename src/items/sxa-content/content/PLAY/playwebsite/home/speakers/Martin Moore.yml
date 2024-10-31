@@ -1,0 +1,70 @@
+﻿---
+ID: "abc74708-2a5a-4ad9-94e6-15a6029252ec"
+Parent: "1f4b781b-f2a5-5647-99df-c0c369162c4d"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: /sitecore/content/PLAY/playwebsite/home/speakers/Martin Moore
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: "c0M7RkhSik2iDu7iPqi-5g"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Martin Moore
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2256955c-26ab-41b5-8e7a-fc504ea1a307"
+      Hint: Sponsors
+      Value: "{8C5F5B0A-B6A6-46CE-A34A-6A76E7B4FD2E}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "44a57340-61f8-48a2-84a8-bc5d16929a3d"
+      Hint: Location
+      Value: Sydney, Australia
+    - ID: "5d58f635-d21c-4635-8efd-93448b2799c2"
+      Hint: Vendors
+      Value: "{3F809DBD-C095-40F0-AB32-D219CEF1CFC1}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d62f201-717f-4f36-998f-18ba31bdd392"
+    - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
+      Hint: Company
+      Value: Spark
+    - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
+      Hint: Description
+      Value: |
+        <p>Martin Moore is a highly respected sports psychologist, renowned for his work with elite athletes and top-tier sports teams across the globe. With a career spanning over two decades, Martin has a proven track record in enhancing performance and mental resilience in the world of sports.<br />
+        <br />
+        Martin holds a PhD in Sports Psychology from the University of Oxford. He is a registered member of the British Psychological Society and has published numerous research papers in reputable sports science journals.<br />
+        <br />
+        He began his career working with local sports teams, where he gained recognition for his ability to significantly improve athletes' mental stamina and performance under pressure. His success led him to work with Olympic athletes and prominent sports teams, providing them with psychological strategies to cope with the pressures of high-level competition.<br />
+        <br />
+        In addition to his work with athletes, Martin is the author of the best-selling book "Mind Over Medal," in which he explores the psychological techniques used by top athletes to achieve peak performance. He is also a regular contributor to sports television and radio, providing insights into the psychological aspects of sports performance.<br />
+        <br />
+        At the PLAY! Summit Conference, Martin will share his expertise on the psychology of sports performance, discussing the mental strategies that can help athletes thrive under pressure and overcome setbacks. His in-depth knowledge and practical advice will undoubtedly provide valuable insights for all attendees, from fitness enthusiasts to professional athletes.</p>
+    - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
+      Hint: JobTitle
+      Value: Customer Success Manager
+    - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
+      Hint: Role
+      Value: Speaker
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: Martin Moore
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Martin Moore
+    - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
+      Hint: Picture
+      Value: |
+        <image stylelabs-content-id="49458" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49458/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/a241ebe4a45d4e0b9473474f16ad43fc?v=45418130&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Martin Moore - No background" height="3778" width="3777" />

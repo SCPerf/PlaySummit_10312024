@@ -1,0 +1,70 @@
+﻿---
+ID: "d5033fba-96eb-47f3-b239-c8f7094464fd"
+Parent: "1f4b781b-f2a5-5647-99df-c0c369162c4d"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: /sitecore/content/PLAY/playwebsite/home/speakers/Chris Williams
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: 9Xfs1oR2gkCqau_X6uX8JQ
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Chris Williams
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "087528fd-b211-4715-aca0-cbe90275951b"
+      Hint: Featured
+      Value: 1
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "44a57340-61f8-48a2-84a8-bc5d16929a3d"
+      Hint: Location
+      Value: Switzerland
+    - ID: "5d58f635-d21c-4635-8efd-93448b2799c2"
+      Hint: Vendors
+      Value: "{5EE51C40-8986-44C0-B44A-D030D4482A43}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fbc6ef6d-d3c8-4cb0-b3e1-1e0b7f6e6148"
+    - ID: "adbe3132-d415-414c-941f-9d840ebcf9cd"
+      Hint: Sessions
+      Value: "{F378DF03-E5E2-4D77-B0F6-FA59C64BAECB}|{39226DC6-0A62-459B-9299-54EC88AF6935}|{A789A9C9-E3E8-45A5-9B0C-621B760C7D32}"
+    - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
+      Hint: Description
+      Value: |
+        <p>Chris Williams is a renowned Sports Psychologist and an influential speaker in the field of mental health in sports. With over 20 years of professional experience, Chris has worked closely with elite athletes, sports teams, and fitness enthusiasts, helping them optimize their performances through mental conditioning.<br />
+        <br />
+        Chris holds a Doctorate in Psychology, specializing in Sports and Performance Psychology. Early in his career, he served as a psychologist for several high-profile sports teams, where he developed effective strategies for improving team dynamics, enhancing individual performance, and managing the pressures of competitive sports.<br />
+        <br />
+        In addition to his direct work with athletes, Chris is also an accomplished author and researcher. His groundbreaking studies on the psychological aspects of sports performance have been published in numerous academic journals and have greatly contributed to the field of sports psychology.<br />
+        <br />
+        Chris is the founder of a successful consultancy firm that offers psychological training and support to athletes and sports organizations worldwide. His innovative methods and techniques have been praised for their practicality and effectiveness in improving not just performance, but also the overall mental wellbeing of athletes.<br />
+        <br />
+        At the PLAY! Summit Conference, Chris will share his insights into the role of psychology in sports performance, discussing topics such as mental resilience, the psychology of winning, and the importance of mental health in sports. His expertise and engaging speaking style make him a highly anticipated speaker at the conference.</p>
+    - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
+      Hint: JobTitle
+      Value: Professional Cyclist
+    - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
+      Hint: Role
+      Value: Athlete
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: Chris Williams
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Chris Williams
+    - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
+      Hint: Picture
+      Value: |
+        <image stylelabs-content-id="49399" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49399/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/62319d1c1f084b888c2bab8d898ea71c?v=c2d61917&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Chris Williams - No background" height="3785" width="3785" />

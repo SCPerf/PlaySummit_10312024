@@ -1,0 +1,66 @@
+﻿---
+ID: "7c9530b9-e948-4a84-9a6f-9a3d27b5cb42"
+Parent: "68dc89a4-1b04-59a8-9c4e-3b49d6c61052"
+Template: "d8aa73e1-c275-4eee-bb9d-333925e51952"
+Path: /sitecore/content/PLAY/playwebsite/home/sessions/Ask an expert outdoor survival
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: tAtZEQnGJUePFwkICtJFvQ
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Ask an expert: outdoor survival"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025df6a5-2001-449f-8f76-02be5353905c"
+      Hint: Audience
+      Value: "{D7E74E60-9708-48B2-9D37-C34D165BEC43}|{EB7D2E35-46BD-4EA3-A142-6B524DF4ED97}"
+    - ID: "1fae2494-f83e-4b6b-bd34-d1c42304211f"
+      Hint: Vendors
+      Value: "{3983AC76-7325-4AF4-9183-B68DE402F872}"
+    - ID: "21df785e-14dd-4c8d-abff-5ae00b693e5e"
+      Hint: Description
+      Value: |
+        <p>In this engaging session, attendees will have an unparalleled opportunity to interact directly with seasoned experts in the field of outdoor survival. This is an excellent platform for individuals who are passionate about outdoor activities and wish to enhance their survival skills. These experienced professionals will share in-depth knowledge and practical tips about wilderness survival techniques, emergency preparedness, and essential survival gear. Participants can ask questions and gain insights on a wide array of topics such as navigation, wildlife encounters, shelter building, and first aid in remote areas.</p>
+        <p>This is not just for professional outdoor enthusiasts, but also for beginners who are keen to learn more about the great outdoors. The experts will guide attendees through various scenarios, providing them with the confidence and competence to face unexpected challenges in outdoor environments. The session will also stress the importance of mental resilience in survival situations, providing strategies to stay calm and focused. Be ready to dive deep into the world of outdoor survival, gaining a wealth of knowledge that will prove invaluable for your future adventures.</p>
+    - ID: "3647d085-16e3-44ee-a3f7-c613d0fe17ce"
+      Hint: Speakers
+      Value: "{AFB23041-6733-44B0-843C-193713F55C7D}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "4b2d1962-60eb-4cd1-b8e9-a2c2762ec04c"
+      Hint: Image
+      Value: |
+        <image stylelabs-content-id="38531" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/38531/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/1939307bff0b4e53a8797d0d805aa0fe?v=2269254d&amp;t=web" mediaid="" stylelabs-content-type="Image" alt="Outdoor expert" height="1524" width="2031" />
+    - ID: "51084853-806c-4e3d-90a3-0eaec3faa3ac"
+      Hint: Day
+      Value: "{1EB4DC2D-C299-42FF-B3C1-0719E694298E}"
+    - ID: "5c88d198-7603-4a45-b9f6-682b908c60b9"
+      Hint: Timeslots
+      Value: "{3C8054D9-EE77-47CB-8142-5541A557260D}|{81801E88-1D20-4B32-A344-772504C234EA}"
+    - ID: "6f888071-3e3a-4888-ae95-d90b7df06870"
+      Hint: Type
+      Value: Session
+    - ID: "8058e5a0-d20d-4923-b87d-f56b19efc20f"
+      Hint: Name
+      Value: "Ask an expert: outdoor survival"
+    - ID: "8c3dff8b-74bc-4a65-af6d-81452a3d9a11"
+      Hint: Rooms
+      Value: "{3BC52CBD-3EE1-496F-918E-C0D55A96B7C9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e48e3ed-d4fa-44d1-ada0-8a9c42772636"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: "Ask an expert: outdoor survival"

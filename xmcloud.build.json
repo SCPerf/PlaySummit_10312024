@@ -1,0 +1,59 @@
+{
+    "renderingHosts": {
+        "playwebsite": {
+            "path": "./src/rendering",
+            "nodeVersion": "20.10.0",
+            "jssDeploymentSecret":"511cdfab92b7440db866ac0fb817b490",
+            "enabled": true,
+            "type": "sxa",
+            "buildCommand": "build",
+            "runCommand": "next:start"
+        }
+    },
+    "transforms": [
+        {
+            "xdtPath": "/xdts/",
+            "targetPath": "/"
+        }
+    ],
+    "deployItems": {
+      "modules": [
+        "renderinghost",
+        "InitItems",
+        "HeadlessSxaWebsite",
+        "HeadlessSxaWebsite-Content"
+      ]
+    },
+    "postActions": {
+        "actions":{
+          "scsModules": {
+            "modules": [
+              "HeadlessSxaWebsite-Media"
+            ]
+          },
+          "warmUpCm": {
+            "urls": [
+              "/Utilities/Restart.aspx",
+              "/Utilities/InitializeComponentsLibraryId.aspx",
+              "/Utilities/InitializePointOfSale.aspx"
+            ]
+          },
+          "populateSchema": {
+            "indexNames": []
+          },
+          "reindex": {
+            "indexNames": []
+          },
+          "publish": {
+            "path": "/sitecore",
+            "languages": [
+              "en",
+              "fr-CA"
+            ],
+            "itemIds": [],
+            "targets": ["Edge"],
+            "republish": false
+          }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+﻿---
+ID: "362c964c-6b90-4c78-85f9-dd504ff7b09b"
+Parent: "ecdd5437-0848-47be-accd-04bb1d631c94"
+Template: "ac3d649a-610a-4f10-be28-78efa6d80e0e"
+Path: /sitecore/content/PLAY/playwebsite/Data/Navigation/Footer/Join Us
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98ed6285-96d1-42fa-9603-2585db385a57"
+- Language: "fr-CA"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Rejoignez-nous"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7957889b-34eb-4385-ab3a-ce375b5394c3"

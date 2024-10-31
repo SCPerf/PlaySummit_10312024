@@ -1,0 +1,73 @@
+﻿---
+ID: "13f1fd3b-8133-4833-b4d4-6d8cd2d7bef5"
+Parent: "1f4b781b-f2a5-5647-99df-c0c369162c4d"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: /sitecore/content/PLAY/playwebsite/home/speakers/Li Xiu Ying
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: "qgtATX-IO06l7UAIROH4eA"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Li Xiu Ying
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2256955c-26ab-41b5-8e7a-fc504ea1a307"
+      Hint: Sponsors
+      Value: "{8237D1F3-65FC-44C1-82A1-EA4A77E5BAFA}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "44a57340-61f8-48a2-84a8-bc5d16929a3d"
+      Hint: Location
+      Value: San Diego, California
+    - ID: "5d58f635-d21c-4635-8efd-93448b2799c2"
+      Hint: Vendors
+      Value: "{FC360AAE-8685-4782-8929-9D583834812D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c94905d3-da37-4c68-9df4-f81f73ebc7a6"
+    - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
+      Hint: Company
+      Value: Wave52
+    - ID: "adbe3132-d415-414c-941f-9d840ebcf9cd"
+      Hint: Sessions
+      Value: "{BA087B4F-7F17-4461-98E0-9514123F1EBE}"
+    - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
+      Hint: Description
+      Value: |
+        <p>Li Xiu Ying is a distinguished figure in the world of sports technology and innovation. As the founder and CEO of TechSports, a leading technology firm that specializes in creating cutting-edge solutions for sports and fitness brands, Li has greatly influenced the way technology is incorporated into modern athletics.<br />
+        <br />
+        Li holds a Bachelor's degree in Computer Science and a Master's degree in Sports Technology from the prestigious Beijing Institute of Technology. Combining his love for sports and technology, Li set out to revolutionize the sports industry by introducing advanced technologies to enhance athletes' performance and fitness experiences.<br />
+        <br />
+        Under Li's leadership, TechSports has developed a range of products, including wearable technology for athletes, advanced fitness tracking apps, and virtual reality systems for training. These innovations have not only improved athletic performance but have also made fitness more accessible and engaging for the general public.<br />
+        <br />
+        In addition to his work at TechSports, Li is passionate about promoting sports technology education. He regularly conducts workshops at universities and serves as a guest lecturer at various tech conferences around the world.<br />
+        <br />
+        At the PLAY! Summit Conference, Li Xiu Ying will share his insights on the intersection of technology and sports, the future of sports technology, and how innovation can enhance athletic performance and fitness experiences. His unique perspective and wealth of knowledge make him a must-see speaker at the conference.</p>
+    - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
+      Hint: JobTitle
+      Value: Business Intelligence
+    - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
+      Hint: Role
+      Value: Speaker
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: Li Xiu Ying
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Li Xiu Ying
+    - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
+      Hint: Picture
+      Value: |
+        <image stylelabs-content-id="49210" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49210/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/8829dbe0f70b4ecc89279b65591d6634?v=cdb1e298&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Li Xiu Ying - No background" height="3687" width="3688" />

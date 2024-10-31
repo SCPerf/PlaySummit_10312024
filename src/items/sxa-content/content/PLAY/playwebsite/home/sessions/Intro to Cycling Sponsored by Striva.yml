@@ -1,0 +1,70 @@
+﻿---
+ID: "e35fd211-a2cd-49d4-87cc-4dd07bc14b8c"
+Parent: "68dc89a4-1b04-59a8-9c4e-3b49d6c61052"
+Template: "d8aa73e1-c275-4eee-bb9d-333925e51952"
+Path: /sitecore/content/PLAY/playwebsite/home/sessions/Intro to Cycling Sponsored by Striva
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: 27WHPQDA1k6v6ScH6DLCRA
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Intro to Cycling - Sponsored by Striva"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025df6a5-2001-449f-8f76-02be5353905c"
+      Hint: Audience
+      Value: "{A69C357B-F4F9-4D4B-8262-44B0E60F051F}|{6AB3A378-547F-4B38-8BE4-7538313020B2}"
+    - ID: "1fae2494-f83e-4b6b-bd34-d1c42304211f"
+      Hint: Vendors
+      Value: "{01E09652-ABD7-4BB0-AD96-E609966330BD}"
+    - ID: "21df785e-14dd-4c8d-abff-5ae00b693e5e"
+      Hint: Description
+      Value: |
+        <p>The "Intro to Cycling" session, sponsored by Striva, serves as an excellent starting point for those who are new to cycling or want to incorporate this low-impact, high-energy exercise into their fitness routine. Expert cyclists and fitness trainers will provide comprehensive knowledge about the basics of cycling, from choosing the right bicycle and understanding its mechanics to learning basic riding techniques and safety protocols. Attendees will also be introduced to different cycling disciplines, such as road cycling, mountain biking, and indoor cycling, to help them determine which suits their fitness goals and preferences best.<br />
+        <br />
+        In the second part of this session, there will be a focus on how cycling can be utilized for overall health and wellness. The experts will discuss the physical and mental health benefits of regular cycling, and how it contributes to cardiovascular fitness, muscle tone, weight management, and stress reduction. Attendees will also learn how to use Striva's innovative technology to monitor their cycling performance and track their progress, adding a new dimension to their cycling experience. This session promises to inspire and equip attendees with the knowledge and enthusiasm to embark on their cycling journey.</p>
+    - ID: "3647d085-16e3-44ee-a3f7-c613d0fe17ce"
+      Hint: Speakers
+      Value: "{04013CFE-C1DD-4D16-BBC1-AD0B548FCD7F}|{209A438A-C1E2-4E02-BC8E-568235F16D1D}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "4b2d1962-60eb-4cd1-b8e9-a2c2762ec04c"
+      Hint: Image
+      Value: |
+        <image stylelabs-content-id="38290" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/38290/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/fbeff54120594339ac9c8ce2b32d82f5?v=b2aad55c&amp;t=web" mediaid="" stylelabs-content-type="Image" alt="Cycling group" height="3000" width="4000" />
+    - ID: "51084853-806c-4e3d-90a3-0eaec3faa3ac"
+      Hint: Day
+      Value: "{1EB4DC2D-C299-42FF-B3C1-0719E694298E}"
+    - ID: "5c88d198-7603-4a45-b9f6-682b908c60b9"
+      Hint: Timeslots
+      Value: "{9FA93929-60C9-47DF-9E5A-C170E6EE2440}"
+    - ID: "6f888071-3e3a-4888-ae95-d90b7df06870"
+      Hint: Type
+      Value: Workshop
+    - ID: "8058e5a0-d20d-4923-b87d-f56b19efc20f"
+      Hint: Name
+      Value: "Intro to Cycling - Sponsored by Striva"
+    - ID: "8c3dff8b-74bc-4a65-af6d-81452a3d9a11"
+      Hint: Rooms
+      Value: "{6FE42A91-749B-4B13-BBA6-826DABE94B00}|{2ACD0217-A6FE-401C-9E0C-FF625CAD8CC3}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2926b6b7-e892-4b73-b00d-c518b3545224"
+    - ID: "cb19a833-48b8-4ad4-a841-09769bbef5c6"
+      Hint: Sponsors
+      Value: "{C5CEF7C2-8DC6-4B8A-9AD4-D04DEB7B5DAB}"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: "Intro to Cycling - Sponsored by Striva"
