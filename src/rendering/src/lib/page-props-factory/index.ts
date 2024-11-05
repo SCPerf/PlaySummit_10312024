@@ -47,7 +47,11 @@ export class SitecorePagePropsFactory {
         return newProps;
       }, Promise.resolve({} as SitecorePageProps));
 
-    debug.common('page-props-factory end in %dms', Date.now() - startTimestamp);
+    debug.common(
+      'page-props-factory end in %dms; page path: %s',
+      Date.now() - startTimestamp,
+      extendedProps?.layoutData?.sitecore?.route?.name
+    );
 
     return extendedProps;
   }

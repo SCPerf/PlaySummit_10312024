@@ -1,6 +1,10 @@
 import { GetServerSidePropsContext, GetStaticPropsContext } from 'next';
 import { Plugin } from '..';
-import { getPersonalizedRewriteData, personalizeLayout } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  debug,
+  getPersonalizedRewriteData,
+  personalizeLayout,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import { SitecorePageProps } from 'lib/page-props';
 
 class PersonalizePlugin implements Plugin {
@@ -8,6 +12,8 @@ class PersonalizePlugin implements Plugin {
 
   async exec(props: SitecorePageProps, context: GetServerSidePropsContext | GetStaticPropsContext) {
     if (context.preview) return props;
+
+    const startTime = Date.now();
 
     const path =
       context.params === undefined
@@ -27,6 +33,11 @@ class PersonalizePlugin implements Plugin {
       personalizeData.componentVariantIds
     );
 
+    debug.common(
+      'finished personalizing data in %dms; name: %s',
+      Date.now() - startTime,
+      props?.layoutData?.sitecore?.route?.name
+    );
     return props;
   }
 }
