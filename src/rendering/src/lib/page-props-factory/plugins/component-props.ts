@@ -1,4 +1,8 @@
-import { ComponentPropsService, ComponentPropsError } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  ComponentPropsService,
+  ComponentPropsError,
+  debug,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import { SitecorePageProps } from 'lib/page-props';
 import { GetServerSidePropsContext, GetStaticPropsContext } from 'next';
 import { moduleFactory } from 'temp/componentBuilder';
@@ -15,6 +19,7 @@ class ComponentPropsPlugin implements Plugin {
 
   async exec(props: SitecorePageProps, context: GetServerSidePropsContext | GetStaticPropsContext) {
     if (!props.layoutData.sitecore.route) return props;
+    const startTime = Date.now();
 
     // Retrieve component props using side-effects defined on components level
     if (isServerSidePropsContext(context)) {
@@ -44,7 +49,11 @@ class ComponentPropsPlugin implements Plugin {
     if (errors.length) {
       throw new Error(errors);
     }
-
+    debug.common(
+      'finished getting component data in %dms; name: %s',
+      Date.now() - startTime,
+      props?.layoutData?.sitecore?.route?.name
+    );
     return props;
   }
 }

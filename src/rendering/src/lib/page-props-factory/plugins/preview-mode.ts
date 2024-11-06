@@ -11,6 +11,7 @@ import {
 import { SitecorePageProps } from 'lib/page-props';
 import { graphQLEditingService } from 'lib/graphql-editing-service';
 import { Plugin } from '..';
+import { debug } from '@sitecore-jss/sitecore-jss';
 
 class PreviewModePlugin implements Plugin {
   order = 1;
@@ -20,6 +21,8 @@ class PreviewModePlugin implements Plugin {
 
     // If we're in Pages preview (editing) Metadata Edit Mode, prefetch the editing data
     if (isEditingMetadataPreviewData(context.previewData)) {
+      const startTime = Date.now();
+
       const { site, itemId, language, version, variantIds, layoutKind } = context.previewData;
 
       const data = await graphQLEditingService.fetchEditingData({
@@ -46,6 +49,12 @@ class PreviewModePlugin implements Plugin {
         props.layoutData,
         personalizeData.variantId,
         personalizeData.componentVariantIds
+      );
+
+      debug.common(
+        'finished getting editing data in %dms; name: %s',
+        Date.now() - startTime,
+        props?.layoutData?.sitecore?.route?.name
       );
 
       return props;

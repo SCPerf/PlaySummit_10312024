@@ -1,5 +1,5 @@
 import { GetServerSidePropsContext, GetStaticPropsContext } from 'next';
-import { DictionaryService, LayoutService } from '@sitecore-jss/sitecore-jss-nextjs';
+import { debug, DictionaryService, LayoutService } from '@sitecore-jss/sitecore-jss-nextjs';
 import { dictionaryServiceFactory } from 'lib/dictionary-service-factory';
 import { layoutServiceFactory } from 'lib/layout-service-factory';
 import { SitecorePageProps } from 'lib/page-props';
@@ -19,6 +19,8 @@ class NormalModePlugin implements Plugin {
 
   async exec(props: SitecorePageProps, context: GetServerSidePropsContext | GetStaticPropsContext) {
     if (context.preview) return props;
+
+    const startTime = Date.now();
 
     // Get normalized Sitecore item path
     const path = pathExtractor.extract(context.params);
@@ -52,6 +54,12 @@ class NormalModePlugin implements Plugin {
 
     // Initialize links to be inserted on the page
     props.headLinks = [];
+
+    debug.common(
+      'finished getting prod data in %dms; name: %s',
+      Date.now() - startTime,
+      props?.layoutData?.sitecore?.route?.name
+    );
 
     return props;
   }

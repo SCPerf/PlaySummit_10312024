@@ -28,7 +28,7 @@ export default async function middleware(
     .sort((p1, p2) => p1.order - p2.order)
     .reduce((p, plugin) => p.then((res) => plugin.exec(req, res, ev)), Promise.resolve(response));
 
-  debug.common('next middleware end in %dms', Date.now() - start);
+  debug.common('next middleware end in %dms; url: %s', Date.now() - start, req.url);
 
   return finalRes;
 }
